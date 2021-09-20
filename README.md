@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # be_healthy
 
 A Flutter application for nutrient and calorie claculation.
